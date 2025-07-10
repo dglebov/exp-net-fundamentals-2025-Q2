@@ -41,3 +41,14 @@ index.html                                                  [ <=>               
 
 2025-07-07 22:36:33 (126 MB/s) - ‘index.html’ saved [17801]
 ```
+
+## Linux Firewall Option
+
+We also explore a couple of Linux FW options. Those options depend on what you need: 
+Simple - ufw(Debian-based distros), firewalld (RedHat-based distros) or Iptables. 	
+
+
+MAN is a valuable tool for exploring different options. 
+Some of FW are installed by default, such as iptables; others require installation or enabling. 
+
+Generally speaking, LLMs are your friend when you work with Linux FW. 
