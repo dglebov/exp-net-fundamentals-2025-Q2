@@ -10,3 +10,4 @@
 * [Cisco Packet Tracer](https://github.com/dglebov/exp-net-fundamentals-2025-Q2/tree/main/projects/packet_tracer)
 
 ####  Week 2 activities: 
+* [CML & VPN ](https://github.com/dglebov/exp-net-fundamentals-2025-Q2/blob/main/projects/CML_VPN/Journal.md)
