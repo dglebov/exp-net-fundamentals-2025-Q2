@@ -11,9 +11,6 @@
 
 ####  Week 2 activities: 
 * [CML & VPN ](https://github.com/dglebov/exp-net-fundamentals-2025-Q2/blob/main/projects/CML_VPN/Journal.md)
-
 * [Wireshark](https://github.com/dglebov/exp-net-fundamentals-2025-Q2/blob/main/projects/Wireshark/Journal.md)
-
 * [HA Proxy](https://github.com/dglebov/exp-net-fundamentals-2025-Q2/blob/main/projects/HA_Proxy/Journal.md)
-
 * [Forward & Reverse Proxys](https://github.com/dglebov/exp-net-fundamentals-2025-Q2/blob/main/projects/Proxys/Journal.md)
